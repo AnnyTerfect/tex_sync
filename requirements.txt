@@ -1,0 +1,4 @@
+requests==2.22.0
+watchdog==2.0.2
+fire==0.3.1
+selenium==3.141.0
